@@ -10,7 +10,7 @@ py -m venv venv
 pip install -r requirements.txt
 ```
 
-Step 2: Download data and models from google drive
+Step 2: Download data and models from google drive (files were too large to be placed on GitHub)
 
 Google Drive Link: [https://drive.google.com/drive/folders/1_oOLZvf5pH8sX0rFASQpw-rWORMU8S3v?usp=sharing](https://drive.google.com/drive/folders/1_oOLZvf5pH8sX0rFASQpw-rWORMU8S3v?usp=sharing)
 

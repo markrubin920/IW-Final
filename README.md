@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Step 2: Download data and models from google drive
 
-Google Drive Link: [...](https://drive.google.com/drive/folders/1_oOLZvf5pH8sX0rFASQpw-rWORMU8S3v?usp=sharing)
+Google Drive Link: [https://drive.google.com/drive/folders/1_oOLZvf5pH8sX0rFASQpw-rWORMU8S3v?usp=sharing](https://drive.google.com/drive/folders/1_oOLZvf5pH8sX0rFASQpw-rWORMU8S3v?usp=sharing)
 
 Save the models.pkl file into the 'training' folder and the rest of the files into a folder titled data.
 
